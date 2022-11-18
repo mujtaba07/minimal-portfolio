@@ -1,7 +1,7 @@
 export default [
   {
     title: "my-portfolio",
-    imgUrl: "/assets/original.png",
+    imgUrl: "public/assets/images.jpg",
     stack: ["html", "tailwind", "javaScript", "Reactjs"],
     link: "https://sayed-portfolio.netlify.app/",
   },
