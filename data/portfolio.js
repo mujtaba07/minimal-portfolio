@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Docs-App",
+    imgUrl: "/assets/image.png",
+    stack: ["html", "tailwind", "javaScript", "Reactjs","framer motion"],
+    link: "https://docs-app-24-11-24.netlify.app/",
+  },
+  {
     title: "my-portfolio",
     imgUrl: "/assets/images.jpg",
     stack: ["html", "tailwind", "javaScript", "Reactjs"],

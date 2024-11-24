@@ -1,6 +1,12 @@
 export default [
   {
-    year: "Today",
+    year: "2024",
+    title: "Front-End Developer",
+    duration: "2 Years",
+    details:" working as a frontend developer and building projects using html css js jquery react and nodejs"
+  },
+  {
+    year: "2022",
     title: "Web Developer",
     duration: "6 months",
     details:
