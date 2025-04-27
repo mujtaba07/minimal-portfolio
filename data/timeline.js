@@ -1,9 +1,9 @@
 export default [
   {
-    year: "2024",
+    year: "2025",
     title: "Front-End Developer",
     duration: "2 Years",
-    details:" working as a frontend developer and building projects using html css js jquery react and nodejs"
+    details:"Working as a frontend developer and building projects using html css js jquery react and redux-toolkit"
   },
   {
     year: "2022",
