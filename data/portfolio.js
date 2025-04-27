@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Food Delivery App",
+    imgUrl: "/assets/foodmitho.jpg",
+    stack: ["html", "tailwind", "javaScript", "React","jest","redux","redux-toolkit"],
+    link: "https://khana-delivery.netlify.app/",
+  },
+  {
     title: "Docs-App",
     imgUrl: "/assets/image.png",
     stack: ["html", "tailwind", "javaScript", "Reactjs","framer motion"],
